@@ -1,0 +1,25 @@
+.game{
+    margin: 26px auto;
+    margin-left: 17px;
+}
+
+.game_numbers{
+    margin: 50px auto;
+    width: 20%;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+button{
+    background-color: white;
+    font-family: segoe ui;
+    background-color: gainsboro;
+    border-style: none;
+}
+button:hover{
+    filter: brightness(120%);
+}
+h1, p{
+    font-family: segoe ui;
+    font-weight: 400;
+}
